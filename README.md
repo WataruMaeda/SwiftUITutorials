@@ -7,8 +7,10 @@
 - [x] Chapter 2: Drawing and Animation
   - [x] Drawing Paths and Shapes
   - [x] Animating Views and Transitions
-- [ ] Chapter 3: App Design and Layout
+- [x] Chapter 3: App Design and Layout
   - [x] Composing Complex Interfaces
-  - [ ] Working with UI Controls
+  - [x] Working with UI Controls
+- [ ] Framework Integration
+  - [ ] Interacting with UIKit
 
 https://developer.apple.com/tutorials/swiftui
