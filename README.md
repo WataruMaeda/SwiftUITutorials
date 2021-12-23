@@ -12,6 +12,6 @@
   - [x] Working with UI Controls
 - [ ] Captuer 4: Framework Integration
   - [x] Interacting with UIKit
-  - [ ] Creating a watchOS App
+  - [x] Creating a watchOS App
 
 https://developer.apple.com/tutorials/swiftui
