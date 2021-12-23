@@ -10,7 +10,8 @@
 - [x] Chapter 3: App Design and Layout
   - [x] Composing Complex Interfaces
   - [x] Working with UI Controls
-- [ ] Framework Integration
-  - [ ] Interacting with UIKit
+- [ ] Captuer 4: Framework Integration
+  - [x] Interacting with UIKit
+  - [ ] Creating a watchOS App
 
 https://developer.apple.com/tutorials/swiftui
